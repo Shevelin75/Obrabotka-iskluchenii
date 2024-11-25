@@ -1,0 +1,7 @@
+C:\Users\Luv$hen\source\repos\tema4\tema4\bin\Debug\tema4.exe.config
+C:\Users\Luv$hen\source\repos\tema4\tema4\bin\Debug\tema4.exe
+C:\Users\Luv$hen\source\repos\tema4\tema4\bin\Debug\tema4.pdb
+C:\Users\Luv$hen\source\repos\tema4\tema4\obj\Debug\tema4.csproj.AssemblyReference.cache
+C:\Users\Luv$hen\source\repos\tema4\tema4\obj\Debug\tema4.csproj.CoreCompileInputs.cache
+C:\Users\Luv$hen\source\repos\tema4\tema4\obj\Debug\tema4.exe
+C:\Users\Luv$hen\source\repos\tema4\tema4\obj\Debug\tema4.pdb
